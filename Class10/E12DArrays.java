@@ -1,6 +1,6 @@
 package Class10;
 
-public class E12DArrays {
+public class    E12DArrays {
     public static void main(String[] args) {
 
         String [][] names=

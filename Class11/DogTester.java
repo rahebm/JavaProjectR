@@ -2,7 +2,7 @@ package Class11;
 
 public class DogTester {
     public static void main(String[] args) {
-        // Creating an obj from the Dog class
+        // Creating an obj from the Class16.Dog class
         Dog lunasObj = new Dog();
         lunasObj.name="Luna";
         lunasObj.gender='F';
