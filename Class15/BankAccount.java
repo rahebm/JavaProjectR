@@ -13,4 +13,6 @@ public class BankAccount {
         System.out.println(bankAccount.name);
     }
 
+    public void getBankAccountNumber() {
+    }
 }
